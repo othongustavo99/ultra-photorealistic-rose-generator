@@ -4,11 +4,14 @@ An ultra-photorealistic botanical prompt designed for modern AI image generation
 
 ---
 
+
 ## 📷 Example
 
-![Rose Example](rose-example.png)
+<p align="center">
+  <img src="rose-example.png" alt="Ultra Photorealistic Crimson Rose Bud" width="85%">
+</p>
 
----
+*Deep crimson rose bud with morning dew — Ultra photorealistic macro photography*
 
 ## 📄 About
 
