@@ -1,52 +1,67 @@
-# 🌹 Ultra Photorealistic Scientific Botanical Rose Prompt
+# 🌹 Ultra-Photorealistic Scientific Botanical Rose Prompt
 
-An ultra-photorealistic botanical prompt designed for modern AI image generation models.
+An ultra-photorealistic botanical prompt designed for modern AI image generation models (Grok, Flux, Midjourney, Ideogram, etc.).
 
 ---
-
 
 ## 📷 Example
 
 <p align="center">
-  <img src="rose-example.png" alt="Ultra Photorealistic Crimson Rose Bud" width="85%">
+  <img src="rose-example.png" alt="Ultra Photorealistic Crimson Rose Bud" width="88%">
 </p>
 
-*Deep crimson rose bud with morning dew — Ultra photorealistic macro photography*
+**Deep crimson rose bud with morning dew • Macro botanical photography • Museum quality**
+
+---
 
 ## 📄 About
 
-This repository contains a professional botanical prompt designed to generate an ultra-photorealistic deep crimson rose with museum-quality realism.
+Este repositório contém um prompt profissional ultra-detalhado para gerar rosas com **realismo científico e fotográfico de alto nível**.
 
-The prompt focuses on:
+O prompt foi otimizado para produzir imagens que parecem fotografias reais capturadas com equipamento profissional de macro.
 
-- Scientific botanical accuracy
+### Principais características do prompt:
+- Realismo botânico científico
 - Physically Based Rendering (PBR)
-- Macro photography realism
-- National Geographic style
-- Museum archive quality
-- Commercial photography quality
-- Natural lighting
-- Focus stacked macro look
+- Iluminação natural de manhã cedo
+- Gotas de orvalho com física realista
+- Detalhes microscópicos nas pétalas e folhas
+- Estilo National Geographic / Smithsonian
 
 ---
 
 ## 📂 Files
 
-- **prompt.txt** → Complete prompt
-- **rose-example.png** → Example image
+| Arquivo              | Descrição                          |
+|----------------------|------------------------------------|
+| `prompt.txt`         | Prompt completo (positivo)         |
+| `rose-example.png`   | Exemplo gerado com o prompt        |
+| `README.md`          | Este arquivo                       |
 
 ---
 
 ## 🖼️ Recommended Models
 
-- GPT Image
-- FLUX
-- Stable Diffusion XL
-- Midjourney
-- Ideogram
+- **Grok Imagine** (melhor resultado atual)
+- **Flux**
+- **Ideogram 2.0**
+- **Midjourney v6.1**
+- **Stable Diffusion XL / 3**
+
+---
+
+## Como Usar
+
+1. Copie o conteúdo de `prompt.txt`
+2. Cole no gerador de imagens da sua preferência
+3. (Opcional) Use também o Negative Prompt que está dentro do arquivo
 
 ---
 
 ## License
 
-MIT
+MIT © [Othon Gustavo](https://github.com/othongustavo99)
+
+---
+
+⭐ Se esse prompt te ajudou, não esquece de dar uma estrela no repositório!
